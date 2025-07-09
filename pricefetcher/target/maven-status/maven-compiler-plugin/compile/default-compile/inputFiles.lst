@@ -1,0 +1,8 @@
+/Users/jaysharma/IdeaProjects/pricefetcher/src/main/java/com/example/pricefetcher/PricefetcherApplication.java
+/Users/jaysharma/IdeaProjects/pricefetcher/src/main/java/com/example/pricefetcher/controller/PriceController.java
+/Users/jaysharma/IdeaProjects/pricefetcher/src/main/java/com/example/pricefetcher/model/PriceQuery.java
+/Users/jaysharma/IdeaProjects/pricefetcher/src/main/java/com/example/pricefetcher/model/ProductResult.java
+/Users/jaysharma/IdeaProjects/pricefetcher/src/main/java/com/example/pricefetcher/service/ExampleSiteScraper.java
+/Users/jaysharma/IdeaProjects/pricefetcher/src/main/java/com/example/pricefetcher/service/ScraperService.java
+/Users/jaysharma/IdeaProjects/pricefetcher/src/main/java/com/example/pricefetcher/service/ScraperServiceImpl.java
+/Users/jaysharma/IdeaProjects/pricefetcher/src/main/java/com/example/pricefetcher/service/SecondSiteScraper.java

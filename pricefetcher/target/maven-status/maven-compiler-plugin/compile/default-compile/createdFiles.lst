@@ -1,0 +1,8 @@
+com/example/pricefetcher/service/SecondSiteScraper.class
+com/example/pricefetcher/model/PriceQuery.class
+com/example/pricefetcher/service/ScraperServiceImpl.class
+com/example/pricefetcher/controller/PriceController.class
+com/example/pricefetcher/PricefetcherApplication.class
+com/example/pricefetcher/service/ExampleSiteScraper.class
+com/example/pricefetcher/model/ProductResult.class
+com/example/pricefetcher/service/ScraperService.class
